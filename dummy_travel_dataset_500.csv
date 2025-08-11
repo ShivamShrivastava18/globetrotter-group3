@@ -1,0 +1,501 @@
+Destination,Activity,Region,Sub-region,Rating,Expense
+Christ the Redeemer,Historical Site,Brazil,Bahia,3.5,3761
+Sapporo Snow Festival,Snorkeling,Japan,Tokyo Prefecture,3.5,353
+CN Tower,Temple Visit,Canada,Ontario,4.3,4635
+Venice Canals,Beach Day,Italy,Lazio,3.2,157
+Pyramids of Giza,Boat Cruise,Egypt,Giza Governorate,4.6,2280
+Philae Temple,National Park Visit,Egypt,Cairo Governorate,3.9,4324
+Salvador Pelourinho,Temple Visit,Brazil,Amazonas,4,332
+Louvre Museum,Mountain Climbing,France,Brittany,4.7,2417
+Disney World,Wine Tasting,USA,Texas,4,4071
+Kruger National Park,Hiking,South Africa,Eastern Cape,4.1,1698
+Goa Beaches,Beach Day,India,Rajasthan,4.8,978
+Karnak Temple,Cultural Festival,Egypt,Luxor Governorate,3.6,1047
+Mont Saint-Michel,Shopping,France,Normandy,4,3087
+Tokyo Disneyland,Snorkeling,Japan,Osaka Prefecture,4.6,4191
+Disney World,Snorkeling,USA,New York,3.7,1363
+Great Barrier Reef,Desert Safari,Australia,Western Australia,5,3728
+Old Quebec City,Boat Cruise,Canada,Alberta,4.1,4305
+Philae Temple,Snorkeling,Egypt,Luxor Governorate,4.6,4509
+Milan Cathedral,National Park Visit,Italy,Lazio,3.2,131
+Milan Cathedral,Historical Site,Italy,Tuscany,3.7,4413
+Fushimi Inari Shrine,Snorkeling,Japan,Osaka Prefecture,4.1,4497
+Tokyo Disneyland,Mountain Climbing,Japan,Kyoto Prefecture,3.6,3156
+Salvador Pelourinho,Beach Day,Brazil,Rio de Janeiro,3.9,4662
+Taj Mahal,Cultural Festival,India,Kerala,4.2,4989
+Addo Elephant Park,Mountain Climbing,South Africa,Gauteng,3.7,1573
+Amazon Rainforest,Mountain Climbing,Brazil,Amazonas,4.5,792
+Uluru,Snorkeling,Australia,Queensland,4,1795
+Christ the Redeemer,Scuba Diving,Brazil,São Paulo,4.9,1170
+Amazon Rainforest,Boat Cruise,Brazil,Rio de Janeiro,4.2,925
+Banff National Park,Food Tasting,Canada,British Columbia,3,3988
+Amazon Rainforest,Scuba Diving,Brazil,Bahia,4.7,328
+Yellowstone National Park,Snorkeling,USA,Florida,3.2,4047
+Karnak Temple,Hiking,Egypt,Giza Governorate,4.5,1646
+Statue of Liberty,Museum Visit,USA,Nevada,3.6,3407
+Christ the Redeemer,Cycling Tour,Brazil,Bahia,4.7,2942
+French Riviera,Wildlife Safari,France,Brittany,3.5,704
+Fushimi Inari Shrine,Museum Visit,Japan,Osaka Prefecture,3.3,3467
+Old Quebec City,Desert Safari,Canada,Ontario,3.8,2639
+Fushimi Inari Shrine,Mountain Climbing,Japan,Osaka Prefecture,4.3,265
+Egyptian Museum,Wildlife Safari,Egypt,Luxor Governorate,3.6,4419
+Tokyo Disneyland,Skiing,Japan,Hokkaido,3.1,1014
+Philae Temple,Temple Visit,Egypt,Luxor Governorate,3.7,4796
+Mont Saint-Michel,Wine Tasting,France,Brittany,3.7,519
+Eiffel Tower,Snorkeling,France,Normandy,3.4,376
+Philae Temple,Scuba Diving,Egypt,Giza Governorate,3.6,2648
+Karnak Temple,Cultural Festival,Egypt,Giza Governorate,3.6,2490
+Rishikesh Ganga Aarti,Wildlife Safari,India,Goa,4.1,2699
+Statue of Liberty,City Tour,USA,Florida,4.8,4086
+Niagara Falls,Beach Day,Canada,Quebec,4.7,2398
+Great Barrier Reef,Theatre Show,Australia,Victoria,4.5,4580
+Egyptian Museum,Theatre Show,Egypt,Cairo Governorate,3.9,226
+Twelve Apostles,Shopping,Australia,Western Australia,3.2,2239
+Sapporo Snow Festival,Desert Safari,Japan,Tokyo Prefecture,3.6,4039
+CN Tower,Boat Cruise,Canada,Quebec,3.9,3662
+Great Barrier Reef,Cultural Festival,Australia,Western Australia,3.1,3202
+Pyramids of Giza,Historical Site,Egypt,Luxor Governorate,4.6,1045
+Sapporo Snow Festival,Shopping,Japan,Hokkaido,4.1,1781
+Egyptian Museum,Food Tasting,Egypt,Luxor Governorate,4.6,1114
+Pyramids of Giza,Historical Site,Egypt,Luxor Governorate,3,1135
+French Riviera,National Park Visit,France,Normandy,3.9,3758
+Leaning Tower of Pisa,Skiing,Italy,Veneto,4.7,3115
+Table Mountain,Theatre Show,South Africa,KwaZulu-Natal,3.5,2867
+Niagara Falls,Cycling Tour,Canada,Quebec,4.3,4201
+Karnak Temple,Boat Cruise,Egypt,Aswan Governorate,3.7,173
+Tokyo Disneyland,Wine Tasting,Japan,Kyoto Prefecture,4.9,2092
+Rishikesh Ganga Aarti,Snorkeling,India,Rajasthan,3.5,2364
+Niagara Falls,Scuba Diving,Canada,Ontario,4.2,4045
+Backwaters of Kerala,City Tour,India,Rajasthan,3,2312
+Iguazu Falls,Beach Day,Brazil,São Paulo,3.5,612
+Statue of Liberty,Museum Visit,USA,Texas,3.3,2481
+Statue of Liberty,Beach Day,USA,Florida,3.9,3175
+Philae Temple,Hiking,Egypt,Luxor Governorate,4.7,3924
+Iguazu Falls,Desert Safari,Brazil,Amazonas,3.5,4442
+Milan Cathedral,Hiking,Italy,Lombardy,3.4,2919
+Philae Temple,Desert Safari,Egypt,Giza Governorate,3.5,1578
+Great Barrier Reef,Wildlife Safari,Australia,Victoria,4.4,197
+Amazon Rainforest,Theatre Show,Brazil,Rio de Janeiro,4,1338
+Iguazu Falls,Mountain Climbing,Brazil,Rio de Janeiro,3.2,2079
+Uluru,Beach Day,Australia,Victoria,3.9,1110
+Egyptian Museum,Museum Visit,Egypt,Cairo Governorate,3.7,3612
+Old Quebec City,Skiing,Canada,Alberta,4.8,2237
+Kruger National Park,Wine Tasting,South Africa,KwaZulu-Natal,3.5,2299
+French Riviera,National Park Visit,France,Île-de-France,4.6,1251
+Banff National Park,Historical Site,Canada,Quebec,4,4289
+Mount Fuji,Skiing,Japan,Kyoto Prefecture,3,4271
+CN Tower,Wine Tasting,Canada,Quebec,4.1,2732
+Rishikesh Ganga Aarti,Snorkeling,India,Kerala,3.6,906
+Karnak Temple,Shopping,Egypt,Giza Governorate,4.1,4659
+Milan Cathedral,Mountain Climbing,Italy,Lombardy,4.8,1348
+Tokyo Disneyland,Desert Safari,Japan,Osaka Prefecture,4.1,2015
+Salvador Pelourinho,Beach Day,Brazil,Bahia,3.9,2387
+Egyptian Museum,Museum Visit,Egypt,Cairo Governorate,4.1,538
+Las Vegas Strip,Cultural Festival,USA,New York,4.6,4817
+Mont Saint-Michel,Scuba Diving,France,Brittany,4.8,1365
+Table Mountain,Mountain Climbing,South Africa,Gauteng,4.3,3297
+Banff National Park,Theatre Show,Canada,Quebec,4.6,707
+Louvre Museum,Wine Tasting,France,Normandy,3.8,2860
+Egyptian Museum,Desert Safari,Egypt,Luxor Governorate,4.6,1888
+Mont Saint-Michel,Beach Day,France,Brittany,4.7,4269
+Leaning Tower of Pisa,Cultural Festival,Italy,Veneto,4.9,3122
+Kruger National Park,Snorkeling,South Africa,KwaZulu-Natal,3.6,3992
+Uluru,Scuba Diving,Australia,Western Australia,4.4,282
+Eiffel Tower,Cultural Festival,France,Brittany,3.6,2308
+Old Quebec City,Desert Safari,Canada,Alberta,3.5,815
+Amazon Rainforest,Wildlife Safari,Brazil,Bahia,4.9,1966
+Leaning Tower of Pisa,Museum Visit,Italy,Tuscany,3.6,612
+Niagara Falls,Snorkeling,Canada,Alberta,4.4,1302
+Niagara Falls,Snorkeling,Canada,Quebec,4.4,2680
+Great Barrier Reef,Wildlife Safari,Australia,Queensland,4.3,965
+Las Vegas Strip,Wine Tasting,USA,Texas,4.3,4857
+Tokyo Disneyland,City Tour,Japan,Osaka Prefecture,3.8,1237
+Karnak Temple,Shopping,Egypt,Cairo Governorate,3.3,449
+Pyramids of Giza,Museum Visit,Egypt,Luxor Governorate,3.7,1324
+Taj Mahal,Snorkeling,India,Uttarakhand,4.9,3591
+Karnak Temple,Cycling Tour,Egypt,Cairo Governorate,4.3,2723
+Kruger National Park,Temple Visit,South Africa,Eastern Cape,3.3,2978
+Colosseum,Wine Tasting,Italy,Lombardy,4.6,4980
+Mount Fuji,Desert Safari,Japan,Tokyo Prefecture,4.6,148
+Yellowstone National Park,Cycling Tour,USA,Nevada,3.1,1046
+Twelve Apostles,Wildlife Safari,Australia,Western Australia,4.2,1403
+Tokyo Disneyland,Temple Visit,Japan,Hokkaido,4.2,2694
+Kruger National Park,Historical Site,South Africa,Eastern Cape,4.3,2679
+Old Quebec City,Historical Site,Canada,Quebec,4.6,3057
+Karnak Temple,Boat Cruise,Egypt,Luxor Governorate,3.7,1527
+Venice Canals,Scuba Diving,Italy,Lombardy,3.4,1010
+Great Barrier Reef,Temple Visit,Australia,Queensland,3.2,3310
+Las Vegas Strip,Cultural Festival,USA,New York,4.2,4442
+Colosseum,Museum Visit,Italy,Lombardy,3.6,2428
+Twelve Apostles,Cycling Tour,Australia,Victoria,3.3,752
+Sydney Opera House,Cultural Festival,Australia,Victoria,4.2,3672
+Leaning Tower of Pisa,Shopping,Italy,Tuscany,3.4,4823
+Pyramids of Giza,Skiing,Egypt,Cairo Governorate,3.4,1469
+Louvre Museum,Cycling Tour,France,Provence-Alpes-Côte d'Azur,4,2864
+Pyramids of Giza,Temple Visit,Egypt,Cairo Governorate,4.3,1134
+Sapporo Snow Festival,Mountain Climbing,Japan,Tokyo Prefecture,4,2659
+Kruger National Park,Boat Cruise,South Africa,Eastern Cape,4.8,942
+Great Barrier Reef,Wildlife Safari,Australia,New South Wales,3.9,3059
+Karnak Temple,Mountain Climbing,Egypt,Giza Governorate,3.8,817
+Iguazu Falls,Wildlife Safari,Brazil,São Paulo,4.3,3144
+Jaipur City Palace,Theatre Show,India,Goa,4.8,2872
+Christ the Redeemer,Skiing,Brazil,São Paulo,3.7,4436
+Durban Beachfront,Historical Site,South Africa,Eastern Cape,3.3,1367
+Table Mountain,Museum Visit,South Africa,Gauteng,3.2,370
+Grand Canyon,Hiking,USA,Florida,3.1,2757
+Statue of Liberty,Temple Visit,USA,California,4.1,448
+Iguazu Falls,Desert Safari,Brazil,Amazonas,3.1,845
+Mount Fuji,Wine Tasting,Japan,Tokyo Prefecture,3.3,4991
+Pyramids of Giza,Theatre Show,Egypt,Cairo Governorate,4.5,3914
+Milan Cathedral,Snorkeling,Italy,Veneto,4.5,4979
+Yellowstone National Park,Shopping,USA,Nevada,4,1171
+Karnak Temple,Beach Day,Egypt,Giza Governorate,3.5,732
+Table Mountain,Temple Visit,South Africa,Gauteng,4.9,3986
+Christ the Redeemer,Theatre Show,Brazil,Amazonas,4.7,2731
+French Riviera,Historical Site,France,Île-de-France,4.9,4116
+Twelve Apostles,Hiking,Australia,Queensland,4.3,4822
+Mount Fuji,Food Tasting,Japan,Kyoto Prefecture,4.4,3526
+Egyptian Museum,Museum Visit,Egypt,Aswan Governorate,3.5,2967
+Durban Beachfront,National Park Visit,South Africa,Gauteng,4.4,4394
+Grand Canyon,Desert Safari,USA,California,4.1,4265
+Philae Temple,National Park Visit,Egypt,Giza Governorate,3.4,4732
+Great Barrier Reef,Shopping,Australia,Queensland,3.7,4795
+Taj Mahal,Skiing,India,Goa,3.5,2135
+Leaning Tower of Pisa,National Park Visit,Italy,Lazio,3.8,4024
+Banff National Park,Historical Site,Canada,Quebec,4.7,1700
+Tokyo Disneyland,Food Tasting,Japan,Osaka Prefecture,4.2,2170
+Amazon Rainforest,Food Tasting,Brazil,São Paulo,4.8,726
+Old Quebec City,Temple Visit,Canada,Ontario,4.1,1737
+French Riviera,Desert Safari,France,Brittany,4.6,2144
+Rishikesh Ganga Aarti,National Park Visit,India,Uttarakhand,4.7,2356
+Durban Beachfront,Historical Site,South Africa,KwaZulu-Natal,3.1,2566
+Addo Elephant Park,Desert Safari,South Africa,Western Cape,4.8,3359
+Louvre Museum,Skiing,France,Provence-Alpes-Côte d'Azur,4.9,3818
+Jaipur City Palace,Hiking,India,Rajasthan,3.9,2258
+Jaipur City Palace,Hiking,India,Kerala,4.1,1594
+Salvador Pelourinho,Skiing,Brazil,São Paulo,3.7,4872
+Sapporo Snow Festival,Hiking,Japan,Tokyo Prefecture,3.5,3588
+Jaipur City Palace,Scuba Diving,India,Uttarakhand,4.1,4922
+Amazon Rainforest,Wine Tasting,Brazil,Amazonas,4.2,3044
+Sydney Opera House,Food Tasting,Australia,New South Wales,3.1,115
+Philae Temple,Beach Day,Egypt,Aswan Governorate,4.6,3144
+Iguazu Falls,Skiing,Brazil,Bahia,3.1,1882
+Banff National Park,Wine Tasting,Canada,British Columbia,4.5,4481
+Eiffel Tower,National Park Visit,France,Brittany,3.5,3776
+Taj Mahal,Cultural Festival,India,Tamil Nadu,3.2,518
+Fushimi Inari Shrine,Shopping,Japan,Kyoto Prefecture,3.9,4354
+Amazon Rainforest,Cycling Tour,Brazil,Rio de Janeiro,4.1,776
+Leaning Tower of Pisa,Beach Day,Italy,Tuscany,4.1,1446
+Rishikesh Ganga Aarti,Temple Visit,India,Kerala,4,3296
+Addo Elephant Park,Hiking,South Africa,Gauteng,4.3,4007
+Iguazu Falls,Beach Day,Brazil,Rio de Janeiro,4.2,4371
+Sydney Opera House,Cultural Festival,Australia,Western Australia,4,427
+Louvre Museum,Shopping,France,Brittany,3.2,4515
+Karnak Temple,Temple Visit,Egypt,Cairo Governorate,3.7,2934
+Table Mountain,Museum Visit,South Africa,KwaZulu-Natal,3.4,3970
+Pyramids of Giza,Boat Cruise,Egypt,Cairo Governorate,4.7,2922
+Mont Saint-Michel,Scuba Diving,France,Île-de-France,4.3,1018
+Statue of Liberty,National Park Visit,USA,Texas,3.9,3779
+Iguazu Falls,Hiking,Brazil,Amazonas,3.3,724
+Christ the Redeemer,Mountain Climbing,Brazil,Amazonas,3.3,1936
+Taj Mahal,Hiking,India,Uttarakhand,3.3,3975
+Grand Canyon,Mountain Climbing,USA,Nevada,3.1,4791
+Statue of Liberty,Museum Visit,USA,Nevada,3.1,4108
+Colosseum,City Tour,Italy,Lombardy,3.8,3919
+Niagara Falls,Scuba Diving,Canada,Ontario,3.4,2597
+Jaipur City Palace,Scuba Diving,India,Rajasthan,3.1,4492
+Philae Temple,National Park Visit,Egypt,Luxor Governorate,4.6,4435
+Louvre Museum,Temple Visit,France,Normandy,4.4,789
+Jaipur City Palace,Cycling Tour,India,Uttarakhand,4.2,1639
+Banff National Park,Scuba Diving,Canada,British Columbia,3.2,2204
+Statue of Liberty,Shopping,USA,Texas,4.5,3292
+Leaning Tower of Pisa,National Park Visit,Italy,Lazio,4.1,4524
+Sapporo Snow Festival,Wildlife Safari,Japan,Hokkaido,4.5,3334
+Milan Cathedral,Temple Visit,Italy,Veneto,4.9,1897
+Tokyo Disneyland,Hiking,Japan,Tokyo Prefecture,3,3521
+Leaning Tower of Pisa,Beach Day,Italy,Lazio,4.7,4417
+Kruger National Park,National Park Visit,South Africa,Eastern Cape,4,1045
+Yellowstone National Park,Hiking,USA,Texas,3.9,2034
+Grand Canyon,Hiking,USA,Texas,3.1,1939
+Colosseum,Scuba Diving,Italy,Tuscany,4.1,3106
+Eiffel Tower,Cycling Tour,France,Provence-Alpes-Côte d'Azur,4.4,2812
+Leaning Tower of Pisa,City Tour,Italy,Lazio,4.3,3748
+Philae Temple,Wine Tasting,Egypt,Luxor Governorate,4.9,1831
+Yellowstone National Park,Temple Visit,USA,Texas,3.4,2398
+Fushimi Inari Shrine,National Park Visit,Japan,Kyoto Prefecture,4.4,3644
+Rishikesh Ganga Aarti,Temple Visit,India,Goa,3.2,3694
+Fushimi Inari Shrine,Museum Visit,Japan,Tokyo Prefecture,3,3979
+Salvador Pelourinho,Skiing,Brazil,Bahia,4.3,4344
+Philae Temple,Temple Visit,Egypt,Cairo Governorate,4.6,2892
+Las Vegas Strip,Desert Safari,USA,New York,4,1218
+Disney World,Shopping,USA,Texas,4.8,338
+Durban Beachfront,Theatre Show,South Africa,Western Cape,4.8,4416
+Karnak Temple,Theatre Show,Egypt,Cairo Governorate,4.1,743
+Addo Elephant Park,Mountain Climbing,South Africa,Western Cape,5,3366
+Louvre Museum,Temple Visit,France,Provence-Alpes-Côte d'Azur,3.9,2847
+Karnak Temple,Snorkeling,Egypt,Aswan Governorate,3.3,2268
+Mont Saint-Michel,Skiing,France,Normandy,4.9,4525
+Mount Fuji,Food Tasting,Japan,Hokkaido,5,1036
+Salvador Pelourinho,Hiking,Brazil,São Paulo,3.3,3520
+Tokyo Disneyland,Skiing,Japan,Tokyo Prefecture,4,1395
+Tokyo Disneyland,Snorkeling,Japan,Hokkaido,4.7,2683
+Eiffel Tower,National Park Visit,France,Île-de-France,3.4,3934
+Colosseum,Mountain Climbing,Italy,Lombardy,4.1,1387
+Tokyo Disneyland,Mountain Climbing,Japan,Hokkaido,4.2,844
+Las Vegas Strip,Scuba Diving,USA,Texas,4.9,2837
+Christ the Redeemer,Cycling Tour,Brazil,Bahia,3.5,3317
+Venice Canals,Temple Visit,Italy,Veneto,3.9,2990
+Durban Beachfront,National Park Visit,South Africa,Eastern Cape,3.6,3339
+Goa Beaches,Desert Safari,India,Rajasthan,3.8,904
+Milan Cathedral,City Tour,Italy,Tuscany,4,4966
+Yellowstone National Park,City Tour,USA,Florida,4,3700
+Tokyo Disneyland,Museum Visit,Japan,Tokyo Prefecture,3.3,3593
+Uluru,Hiking,Australia,Queensland,5,4642
+Niagara Falls,Mountain Climbing,Canada,Alberta,4.4,558
+Great Barrier Reef,Theatre Show,Australia,Western Australia,4,1486
+Leaning Tower of Pisa,Shopping,Italy,Tuscany,4.8,4823
+Leaning Tower of Pisa,Desert Safari,Italy,Lombardy,3.4,886
+Sydney Opera House,Mountain Climbing,Australia,Victoria,3.1,4947
+Sapporo Snow Festival,Beach Day,Japan,Tokyo Prefecture,4.6,1536
+Philae Temple,Museum Visit,Egypt,Cairo Governorate,4.8,3629
+Iguazu Falls,Hiking,Brazil,Bahia,4.7,434
+CN Tower,Wine Tasting,Canada,Alberta,3.8,476
+Tokyo Disneyland,Boat Cruise,Japan,Osaka Prefecture,4.7,4684
+Great Barrier Reef,Scuba Diving,Australia,Queensland,3.1,4318
+Louvre Museum,Wildlife Safari,France,Provence-Alpes-Côte d'Azur,4.4,1691
+Banff National Park,Mountain Climbing,Canada,British Columbia,3,4372
+Pyramids of Giza,Skiing,Egypt,Aswan Governorate,4.8,4795
+Pyramids of Giza,Museum Visit,Egypt,Giza Governorate,4.1,2317
+Addo Elephant Park,Food Tasting,South Africa,Western Cape,3.6,4761
+Mont Saint-Michel,Cultural Festival,France,Île-de-France,4.7,2427
+Philae Temple,Wildlife Safari,Egypt,Cairo Governorate,3.3,4533
+Eiffel Tower,Food Tasting,France,Normandy,4.4,3845
+Old Quebec City,Temple Visit,Canada,Alberta,4.9,3536
+Banff National Park,Wildlife Safari,Canada,Quebec,3.5,4345
+Addo Elephant Park,Theatre Show,South Africa,Western Cape,3.2,1127
+Amazon Rainforest,Boat Cruise,Brazil,São Paulo,3.7,4956
+Yellowstone National Park,Cycling Tour,USA,Texas,3.5,2163
+Iguazu Falls,Cultural Festival,Brazil,Rio de Janeiro,3.2,1273
+Kruger National Park,Scuba Diving,South Africa,Gauteng,3.6,1813
+Mount Fuji,Scuba Diving,Japan,Osaka Prefecture,4.6,4545
+Las Vegas Strip,Food Tasting,USA,Texas,3.1,3906
+Yellowstone National Park,Scuba Diving,USA,California,3.3,2614
+Durban Beachfront,Beach Day,South Africa,Western Cape,3.2,4750
+Colosseum,Boat Cruise,Italy,Veneto,4.7,131
+Statue of Liberty,Theatre Show,USA,California,3.3,4969
+Sapporo Snow Festival,Shopping,Japan,Osaka Prefecture,4.7,3223
+Fushimi Inari Shrine,City Tour,Japan,Tokyo Prefecture,3.6,3524
+Yellowstone National Park,Shopping,USA,Nevada,3.1,480
+CN Tower,Theatre Show,Canada,Alberta,3.2,3301
+Louvre Museum,Museum Visit,France,Normandy,4.6,1082
+Banff National Park,Snorkeling,Canada,Ontario,3.2,3596
+Yellowstone National Park,Mountain Climbing,USA,Nevada,3.2,3029
+Table Mountain,Food Tasting,South Africa,Eastern Cape,3.5,2744
+Iguazu Falls,Historical Site,Brazil,São Paulo,3.6,4122
+Rishikesh Ganga Aarti,Wine Tasting,India,Uttarakhand,3.4,4463
+Colosseum,Scuba Diving,Italy,Lombardy,3.7,2553
+CN Tower,Historical Site,Canada,Quebec,3.2,3468
+Las Vegas Strip,National Park Visit,USA,California,4.7,3349
+Niagara Falls,City Tour,Canada,British Columbia,4.3,4221
+Kruger National Park,Beach Day,South Africa,KwaZulu-Natal,4.4,4590
+Egyptian Museum,Cultural Festival,Egypt,Aswan Governorate,4.1,3972
+Pyramids of Giza,Desert Safari,Egypt,Giza Governorate,4.3,785
+Twelve Apostles,Mountain Climbing,Australia,New South Wales,4.8,3571
+Venice Canals,Temple Visit,Italy,Veneto,4.9,2448
+Leaning Tower of Pisa,Shopping,Italy,Veneto,4.7,4629
+Table Mountain,Food Tasting,South Africa,Western Cape,4.8,3149
+Jaipur City Palace,Hiking,India,Kerala,4.4,3083
+Salvador Pelourinho,Museum Visit,Brazil,Rio de Janeiro,4.8,4668
+Jaipur City Palace,Beach Day,India,Tamil Nadu,4.1,143
+Pyramids of Giza,Museum Visit,Egypt,Aswan Governorate,4.9,4517
+Amazon Rainforest,Cultural Festival,Brazil,Amazonas,4.1,4473
+Louvre Museum,Wildlife Safari,France,Île-de-France,4.5,2335
+Durban Beachfront,Cycling Tour,South Africa,KwaZulu-Natal,3.5,4010
+Niagara Falls,Cycling Tour,Canada,Alberta,3.7,300
+Durban Beachfront,Historical Site,South Africa,Gauteng,4.8,2178
+Las Vegas Strip,Beach Day,USA,California,4.7,2487
+Eiffel Tower,Beach Day,France,Normandy,3.1,1872
+Philae Temple,Snorkeling,Egypt,Cairo Governorate,4.9,777
+Amazon Rainforest,City Tour,Brazil,Bahia,3.3,4714
+French Riviera,Boat Cruise,France,Brittany,4.9,2003
+Louvre Museum,Shopping,France,Normandy,4.6,4532
+CN Tower,Mountain Climbing,Canada,Quebec,4.6,4202
+Great Barrier Reef,National Park Visit,Australia,Western Australia,4.4,2293
+Egyptian Museum,Snorkeling,Egypt,Luxor Governorate,3.9,2497
+Old Quebec City,Hiking,Canada,Quebec,4.7,4999
+Addo Elephant Park,Wine Tasting,South Africa,KwaZulu-Natal,4.3,3075
+Sapporo Snow Festival,Cultural Festival,Japan,Kyoto Prefecture,4.1,1117
+Goa Beaches,Food Tasting,India,Tamil Nadu,3.7,3995
+Durban Beachfront,Wildlife Safari,South Africa,KwaZulu-Natal,3.5,3972
+French Riviera,National Park Visit,France,Normandy,3.2,3058
+Sydney Opera House,Theatre Show,Australia,Western Australia,4.8,1763
+Great Barrier Reef,Desert Safari,Australia,Queensland,4.5,3650
+Uluru,Temple Visit,Australia,Victoria,3.9,445
+Amazon Rainforest,Theatre Show,Brazil,Bahia,4.4,3854
+Fushimi Inari Shrine,Cultural Festival,Japan,Tokyo Prefecture,4.8,2705
+Mount Fuji,Shopping,Japan,Kyoto Prefecture,4.6,2180
+Yellowstone National Park,Hiking,USA,Nevada,3.2,4327
+Addo Elephant Park,Boat Cruise,South Africa,Gauteng,4.6,1513
+Colosseum,Historical Site,Italy,Lombardy,4.6,2766
+Tokyo Disneyland,Beach Day,Japan,Hokkaido,4.4,1108
+Pyramids of Giza,Wine Tasting,Egypt,Aswan Governorate,4.2,3093
+Sapporo Snow Festival,Beach Day,Japan,Hokkaido,3.1,1991
+Mont Saint-Michel,Wine Tasting,France,Provence-Alpes-Côte d'Azur,4.2,3180
+Jaipur City Palace,City Tour,India,Kerala,3.9,3017
+CN Tower,City Tour,Canada,British Columbia,4.2,1425
+Sydney Opera House,City Tour,Australia,Western Australia,4.1,2576
+Old Quebec City,Scuba Diving,Canada,Ontario,4.6,3379
+Pyramids of Giza,Temple Visit,Egypt,Giza Governorate,4.4,1539
+Grand Canyon,Shopping,USA,California,3.1,2122
+Durban Beachfront,Shopping,South Africa,KwaZulu-Natal,3.8,1623
+Milan Cathedral,City Tour,Italy,Lombardy,3.3,719
+Goa Beaches,Desert Safari,India,Uttarakhand,3.9,921
+Banff National Park,Wildlife Safari,Canada,Ontario,3.1,1611
+Rishikesh Ganga Aarti,Scuba Diving,India,Kerala,4,1121
+Karnak Temple,Snorkeling,Egypt,Aswan Governorate,3.5,2506
+Venice Canals,City Tour,Italy,Lazio,4.8,1746
+Amazon Rainforest,Beach Day,Brazil,Rio de Janeiro,4.8,1100
+Niagara Falls,Wildlife Safari,Canada,Ontario,4.2,1095
+Old Quebec City,Food Tasting,Canada,Alberta,4.5,4114
+Pyramids of Giza,Mountain Climbing,Egypt,Aswan Governorate,4.7,3620
+French Riviera,Snorkeling,France,Île-de-France,3.7,2038
+Amazon Rainforest,Museum Visit,Brazil,Amazonas,3.3,4876
+Amazon Rainforest,Snorkeling,Brazil,Amazonas,3.6,3296
+Philae Temple,Mountain Climbing,Egypt,Aswan Governorate,3.1,4613
+Tokyo Disneyland,Mountain Climbing,Japan,Hokkaido,3.4,1630
+Tokyo Disneyland,Food Tasting,Japan,Tokyo Prefecture,4.3,3842
+Taj Mahal,Beach Day,India,Uttarakhand,4.2,4845
+Louvre Museum,Scuba Diving,France,Île-de-France,4.8,3557
+CN Tower,Scuba Diving,Canada,Quebec,4.4,1142
+Taj Mahal,Museum Visit,India,Tamil Nadu,3.8,4838
+Iguazu Falls,Scuba Diving,Brazil,Bahia,4.1,529
+Venice Canals,Cycling Tour,Italy,Veneto,4.4,706
+Mont Saint-Michel,Hiking,France,Provence-Alpes-Côte d'Azur,3.2,1847
+Goa Beaches,Food Tasting,India,Rajasthan,4.4,384
+Iguazu Falls,National Park Visit,Brazil,Bahia,4.6,1055
+Rishikesh Ganga Aarti,Hiking,India,Kerala,3.6,4138
+Old Quebec City,Boat Cruise,Canada,Quebec,3.9,4166
+Louvre Museum,Mountain Climbing,France,Provence-Alpes-Côte d'Azur,3.6,2549
+Iguazu Falls,Wine Tasting,Brazil,Bahia,3.1,4880
+Taj Mahal,Historical Site,India,Rajasthan,4.7,2063
+Mont Saint-Michel,Scuba Diving,France,Île-de-France,4.3,4781
+Pyramids of Giza,Historical Site,Egypt,Giza Governorate,4.8,1564
+Amazon Rainforest,Theatre Show,Brazil,São Paulo,3.9,652
+Mont Saint-Michel,Temple Visit,France,Provence-Alpes-Côte d'Azur,4.3,2924
+Tokyo Disneyland,Cycling Tour,Japan,Hokkaido,4.1,3102
+Mont Saint-Michel,Food Tasting,France,Brittany,3.7,3479
+Iguazu Falls,Wine Tasting,Brazil,São Paulo,4.8,3812
+Eiffel Tower,Snorkeling,France,Brittany,4.8,4151
+Rishikesh Ganga Aarti,Shopping,India,Goa,4.6,2584
+Great Barrier Reef,Beach Day,Australia,Western Australia,4.1,3507
+Old Quebec City,National Park Visit,Canada,British Columbia,4.6,961
+Durban Beachfront,Wine Tasting,South Africa,Gauteng,4.7,4379
+Eiffel Tower,Historical Site,France,Brittany,4.5,2641
+Amazon Rainforest,Wine Tasting,Brazil,Rio de Janeiro,4.1,695
+Rishikesh Ganga Aarti,City Tour,India,Kerala,3.3,4480
+Durban Beachfront,Mountain Climbing,South Africa,Gauteng,4.4,1307
+Kruger National Park,Museum Visit,South Africa,Eastern Cape,3.9,3547
+Twelve Apostles,Hiking,Australia,Queensland,5,1882
+Philae Temple,Museum Visit,Egypt,Aswan Governorate,4.5,4379
+Durban Beachfront,Wildlife Safari,South Africa,KwaZulu-Natal,3.7,2024
+Leaning Tower of Pisa,Shopping,Italy,Lombardy,3.5,4005
+Christ the Redeemer,Temple Visit,Brazil,Rio de Janeiro,4.2,1924
+Banff National Park,Cultural Festival,Canada,British Columbia,4.3,3052
+Great Barrier Reef,National Park Visit,Australia,Victoria,4.8,3715
+Tokyo Disneyland,Temple Visit,Japan,Kyoto Prefecture,3.8,4791
+Niagara Falls,Shopping,Canada,Alberta,4.3,3945
+CN Tower,Cycling Tour,Canada,British Columbia,3.8,865
+French Riviera,Shopping,France,Provence-Alpes-Côte d'Azur,4.9,1447
+Banff National Park,Cultural Festival,Canada,Ontario,4.9,4041
+Pyramids of Giza,Food Tasting,Egypt,Cairo Governorate,4.9,966
+Statue of Liberty,Wine Tasting,USA,Nevada,3.2,2448
+Pyramids of Giza,City Tour,Egypt,Cairo Governorate,3.7,4284
+Rishikesh Ganga Aarti,Desert Safari,India,Rajasthan,3.3,2809
+Venice Canals,Wildlife Safari,Italy,Lazio,3.8,1589
+Statue of Liberty,Hiking,USA,Florida,3.3,3352
+Christ the Redeemer,Skiing,Brazil,Amazonas,3.5,4009
+Eiffel Tower,Theatre Show,France,Île-de-France,3.2,2358
+Fushimi Inari Shrine,Food Tasting,Japan,Hokkaido,4.7,215
+Fushimi Inari Shrine,Temple Visit,Japan,Tokyo Prefecture,3.5,4678
+Iguazu Falls,Skiing,Brazil,São Paulo,3.9,1959
+Mount Fuji,Beach Day,Japan,Kyoto Prefecture,3.5,397
+Louvre Museum,Snorkeling,France,Brittany,4.5,632
+Great Barrier Reef,Beach Day,Australia,Queensland,3.6,253
+Fushimi Inari Shrine,Desert Safari,Japan,Osaka Prefecture,4.9,401
+Durban Beachfront,Cultural Festival,South Africa,KwaZulu-Natal,4,595
+Milan Cathedral,Museum Visit,Italy,Veneto,4,3592
+Uluru,Food Tasting,Australia,New South Wales,4,3238
+Grand Canyon,Historical Site,USA,New York,4.8,3372
+Philae Temple,Skiing,Egypt,Aswan Governorate,4.5,2139
+Sapporo Snow Festival,Wildlife Safari,Japan,Kyoto Prefecture,3.9,3960
+Pyramids of Giza,City Tour,Egypt,Giza Governorate,3,4716
+Christ the Redeemer,Cycling Tour,Brazil,Bahia,4,368
+French Riviera,Hiking,France,Brittany,3.1,4798
+Milan Cathedral,Museum Visit,Italy,Veneto,4.5,4110
+Las Vegas Strip,Wildlife Safari,USA,Nevada,4,4195
+CN Tower,Food Tasting,Canada,Alberta,4.2,536
+Eiffel Tower,Desert Safari,France,Île-de-France,4,3101
+Leaning Tower of Pisa,Boat Cruise,Italy,Veneto,4,1139
+CN Tower,Historical Site,Canada,Quebec,3.3,4863
+Rishikesh Ganga Aarti,Snorkeling,India,Goa,4.3,838
+Twelve Apostles,Mountain Climbing,Australia,Western Australia,4.4,751
+Table Mountain,Snorkeling,South Africa,Eastern Cape,4,4820
+Eiffel Tower,Historical Site,France,Île-de-France,4.6,3655
+Backwaters of Kerala,National Park Visit,India,Uttarakhand,3.8,3335
+Fushimi Inari Shrine,Theatre Show,Japan,Hokkaido,3.1,3256
+Venice Canals,Skiing,Italy,Lombardy,4.8,1502
+Iguazu Falls,Beach Day,Brazil,Bahia,4.5,3501
+Colosseum,Mountain Climbing,Italy,Veneto,4.4,4747
+Taj Mahal,Beach Day,India,Kerala,4.2,393
+Twelve Apostles,Mountain Climbing,Australia,New South Wales,4.7,3943
+Yellowstone National Park,Historical Site,USA,Texas,4.3,4959
+French Riviera,Mountain Climbing,France,Brittany,3.7,4196
+Egyptian Museum,Scuba Diving,Egypt,Aswan Governorate,4,309
+Grand Canyon,Temple Visit,USA,Florida,4.5,434
+Sapporo Snow Festival,Desert Safari,Japan,Kyoto Prefecture,4.2,4619
+Great Barrier Reef,Shopping,Australia,New South Wales,4.9,4379
+Grand Canyon,National Park Visit,USA,New York,4.1,2495
+Iguazu Falls,Mountain Climbing,Brazil,São Paulo,4.1,4226
+Old Quebec City,Wine Tasting,Canada,Ontario,4.1,1191
+Addo Elephant Park,Wildlife Safari,South Africa,Gauteng,4.8,911
+Rishikesh Ganga Aarti,Shopping,India,Goa,4,1070
+CN Tower,Food Tasting,Canada,British Columbia,4.2,3937
+French Riviera,Shopping,France,Provence-Alpes-Côte d'Azur,3,3812
+Durban Beachfront,Wildlife Safari,South Africa,KwaZulu-Natal,4.9,3504
+Iguazu Falls,Boat Cruise,Brazil,Bahia,3,4373
+Milan Cathedral,Cultural Festival,Italy,Lombardy,4.6,3519
+Venice Canals,National Park Visit,Italy,Veneto,3.4,158
+Great Barrier Reef,Skiing,Australia,Queensland,4.7,4413
+Grand Canyon,Temple Visit,USA,Nevada,4.4,4665
+Rishikesh Ganga Aarti,Wine Tasting,India,Goa,3.3,1270
+Venice Canals,Cultural Festival,Italy,Lombardy,4.4,1024
+Karnak Temple,Skiing,Egypt,Aswan Governorate,3.8,186
+Disney World,Beach Day,USA,Texas,4.4,2407
+Milan Cathedral,Beach Day,Italy,Tuscany,3.4,278
+Christ the Redeemer,Shopping,Brazil,Amazonas,3.9,470
+Leaning Tower of Pisa,Hiking,Italy,Lombardy,4.5,972
+Niagara Falls,Theatre Show,Canada,Quebec,4.7,1970
+Eiffel Tower,Hiking,France,Île-de-France,3.4,1867
+Salvador Pelourinho,City Tour,Brazil,Bahia,3.9,4640
+Mount Fuji,Food Tasting,Japan,Tokyo Prefecture,4.5,4589
+Mont Saint-Michel,Shopping,France,Provence-Alpes-Côte d'Azur,3.3,397
+Pyramids of Giza,National Park Visit,Egypt,Aswan Governorate,3.4,1460
+Twelve Apostles,Desert Safari,Australia,Victoria,3.8,3172
+Amazon Rainforest,Wine Tasting,Brazil,Amazonas,3,4321
+Addo Elephant Park,Wine Tasting,South Africa,Eastern Cape,4.6,4855
+Venice Canals,Theatre Show,Italy,Veneto,4.7,389
+Colosseum,Museum Visit,Italy,Tuscany,3.3,265
+Addo Elephant Park,Theatre Show,South Africa,KwaZulu-Natal,4.3,689
+Christ the Redeemer,Boat Cruise,Brazil,Bahia,3.1,4800
+CN Tower,Wildlife Safari,Canada,British Columbia,4.6,141
+Rishikesh Ganga Aarti,Food Tasting,India,Goa,4.3,2163
+Las Vegas Strip,Cultural Festival,USA,California,3.6,2306
+Uluru,Beach Day,Australia,Queensland,4.6,1468
+Backwaters of Kerala,Snorkeling,India,Tamil Nadu,3.6,4692
+Jaipur City Palace,National Park Visit,India,Uttarakhand,4.3,608
+Taj Mahal,Scuba Diving,India,Tamil Nadu,3.6,1892
+Sydney Opera House,Museum Visit,Australia,New South Wales,3.4,3077
+Fushimi Inari Shrine,Snorkeling,Japan,Tokyo Prefecture,4.1,3750
+Fushimi Inari Shrine,Museum Visit,Japan,Tokyo Prefecture,3.9,743
+Pyramids of Giza,Museum Visit,Egypt,Aswan Governorate,4.4,1608
+Karnak Temple,Shopping,Egypt,Cairo Governorate,3.7,1203
