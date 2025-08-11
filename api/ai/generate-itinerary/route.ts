@@ -2,7 +2,7 @@ import { NextResponse } from "next/server"
 import { generateText } from "ai"
 import { createGoogleGenerativeAI } from "@ai-sdk/google"
 
-const geminiApiKey = "AIzaSyA2mr48_Pe1i-tBZPqgwRlWOmU6bXbZODA"
+const geminiApiKey = ""
 
 const google = createGoogleGenerativeAI({
   apiKey: geminiApiKey,
