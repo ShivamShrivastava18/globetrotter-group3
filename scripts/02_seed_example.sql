@@ -1,0 +1,4 @@
+-- Optional: Seed an example trip for your current auth user
+-- Replace the UUID with your user id or run after you create one via the UI
+-- insert into trips (user_id, name, description, start_date, end_date)
+-- values ('00000000-0000-0000-0000-000000000000','Paris & Versailles','Art, food, and gardens','2025-09-10','2025-09-15');
