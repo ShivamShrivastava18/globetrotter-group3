@@ -2,7 +2,7 @@
 
 A modern, AI-powered travel planning application that helps users create personalized itineraries, discover destinations, and share their travel experiences with a community of fellow travelers.
 
-##Video-link: https://drive.google.com/drive/folders/1pKhbqBcP0YMH3SpHrO9npTCskKRoDrNA?usp=sharing
+## Video-link: https://drive.google.com/drive/folders/1pKhbqBcP0YMH3SpHrO9npTCskKRoDrNA?usp=sharing
 
 ## Features
 
